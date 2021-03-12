@@ -1,2 +1,2 @@
 # EdgeLedger
-[Click here to go to project](https://toghrulhajiyev.github.io/EdgeLedger/)
+[Click here to see the project](https://toghrulhajiyev.github.io/EdgeLedger/)
